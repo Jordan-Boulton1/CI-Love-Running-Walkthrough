@@ -116,6 +116,33 @@ main {
   color: #fff;
 }
 
+/* Reasons section */
+hr {
+  border: 1px solid #3a3a3a;
+  margin: 5px 0;
+}
+
+#reasons {
+  margin: 20px auto;
+  width: 90%;
+}
+
+#reasons h2 {
+  font-size: 280%;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+#benefits p {
+  padding: 0 20px;
+}
+
+#benefits-physical>div,
+#benefits-mental>div {
+  line-height: 20px;
+  margin-bottom: 20px;
+}
+
 /* footer */
 #social-networks {
   text-align: center;
